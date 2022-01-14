@@ -1,0 +1,1 @@
+/home/mauro/IdeaProjects/Desafio1/build/classes/kotlin/main/MainKt.class:/home/mauro/IdeaProjects/Desafio1/build/classes/kotlin/main/Parking.class:/home/mauro/IdeaProjects/Desafio1/build/classes/kotlin/main/Vehicle.class:/home/mauro/IdeaProjects/Desafio1/build/classes/kotlin/main/VehicleType.class
